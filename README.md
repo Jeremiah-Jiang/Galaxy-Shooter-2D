@@ -2,7 +2,13 @@
 First game made with Unity 2D, a standard Galaxy Shooter game. Executable available:
 - https://github.com/Jeremiah-Jiang/Galaxy-Shooter-2D/releases/download/Final-Version/Space.Shooter.exe
 
+Goal of the game is just to beat high scores.
+
 # Player Controls
+## P
+- Pauses the game.
+## Esc Key
+- Quits the game.
 ## Single Player
 - Movement
   - WASD/ Arrow Keys
